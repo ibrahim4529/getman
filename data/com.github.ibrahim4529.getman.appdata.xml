@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Ibrahim <ibrahim.hanif4529@gmail.com> -->
+<component type="desktop">
+  <id>com.github.ibrahim4529.getman</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Getman</name>
+  <summary>Test Your Api Easy And Fast</summary>
+  <description>
+    <p>
+      This app provide app like Postman, to provide high speed off native app
+      For linux user.
+    </p>
+  </description>
+</component>
