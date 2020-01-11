@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Getman
+GenericName=Get Rest Api Manager
+Comment=Postman Like App Based on Vala
+Category=Utility;Development;
+Exec=com.github.ibrahim4529.getman
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Api;Getman;Rest;
